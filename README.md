@@ -2,9 +2,7 @@
 
 Connecting and using 6 servo motors on arduino 
 
-## Tinkercad Link 
-
-![Link](https://www.tinkercad.com/things/bzWM7l1Ijo4-arduino-with-6-servos?sharecode=rFKPyOizvVnIbd3oedgNg-sDNtWgvN5mnepnYtgAaf0)
+[Tinkercad Link](https://www.tinkercad.com/things/bzWM7l1Ijo4-arduino-with-6-servos?sharecode=rFKPyOizvVnIbd3oedgNg-sDNtWgvN5mnepnYtgAaf0)
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/Lq3gNAM.png)
