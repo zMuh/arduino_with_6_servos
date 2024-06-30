@@ -1,4 +1,4 @@
-# Arduino_with_6_servos
+# Arduino with 6 servos
 
 Connecting and using 6 servo motors on arduino 
 
